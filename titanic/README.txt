@@ -9,7 +9,7 @@ In this kaggle challenge, analysis is conducted to investigate what sorts of peo
 Directory Contents:
 
 	- test.cv, train.csv
-	Files that contain the raw data for the task, training data is used to 	optimise the model so that we can make accurate predictions on the test 	set.	
+	Files that contain the raw data for the task, training data is used to 		optimise the model so that we can make accurate predictions on the test 		set.	
 
 	- titantic_ML.py
 	A python script that uses a number of machine learning specific libraries 
